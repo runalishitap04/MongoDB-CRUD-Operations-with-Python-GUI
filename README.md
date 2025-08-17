@@ -17,24 +17,27 @@ The GUI is designed to be intuitive, with clear labels, buttons, and real-time f
 This project is ideal for developers and database administrators who want a simple yet powerful tool to interact with MongoDB without using command-line tools. It also serves as a great educational project for learning database operations, GUI development, and Python-MongoDB integration.
 
 ## OUTPUT:-
+<img width="1919" height="815" alt="image" src="https://github.com/user-attachments/assets/d64c203b-759f-47d9-8373-0b90cb2a6b88" />
 
-<img width="1919" height="815" alt="image" src="https://github.com/user-attachments/assets/d66719b6-7966-4419-a5e1-6c60d102f705" />
+<img width="738" height="517" alt="image" src="https://github.com/user-attachments/assets/1cca9153-d51b-4465-99ca-fae01418d2df" />
 
-<img width="672" height="449" alt="image" src="https://github.com/user-attachments/assets/7e05bb47-2cd8-4bff-954e-df1b11a03fbd" />
+<img width="1919" height="892" alt="image" src="https://github.com/user-attachments/assets/02805198-66bc-4958-a735-abf2b4d7ef7d" />
 
-<img width="1769" height="687" alt="image" src="https://github.com/user-attachments/assets/f92d4b67-ac01-4f35-8f45-1ac1132af42d" />
+<img width="1916" height="794" alt="image" src="https://github.com/user-attachments/assets/fb318d70-32b5-4fbd-9104-667f15880a18" />
 
-<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/13f9a43c-5043-44bd-b306-5c1a24beb0b1" />
+<img width="717" height="456" alt="image" src="https://github.com/user-attachments/assets/95d71114-ac32-45cd-92c9-a6bf518f3f36" />
 
-<img width="589" height="444" alt="image" src="https://github.com/user-attachments/assets/a59db727-91b8-48a9-a0c1-6172ccca98f3" />
+<img width="1919" height="843" alt="image" src="https://github.com/user-attachments/assets/62f9fbd5-78dc-4d33-abf6-87ec6e330fa1" />
 
-<img width="1772" height="747" alt="image" src="https://github.com/user-attachments/assets/cb78f79c-3f4a-4db5-939d-20d91035c103" />
+<img width="1919" height="815" alt="image" src="https://github.com/user-attachments/assets/bb91ffa7-10ed-4046-a1bd-2e1b728500d0" />
 
-<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/1ff4a4d9-f9b0-4dcc-b845-2dedcc4e29a0" />
+<img width="799" height="506" alt="image" src="https://github.com/user-attachments/assets/32895ba2-c4b5-47e6-9c44-f4f2dac5e90e" />
 
-<img width="736" height="412" alt="image" src="https://github.com/user-attachments/assets/0d4b15f1-e42e-497e-9852-7f19f12fcb68" />
+<img width="1919" height="880" alt="image" src="https://github.com/user-attachments/assets/85aa3c66-0470-40a3-a5e0-73131743b2c5" />
 
-<img width="1774" height="825" alt="image" src="https://github.com/user-attachments/assets/e6e6aeaf-e49e-495c-8e7e-47a90e2f7600" />
+
+
+
 
 
 
