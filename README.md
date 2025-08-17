@@ -17,8 +17,39 @@ The GUI is designed to be intuitive, with clear labels, buttons, and real-time f
 This project is ideal for developers and database administrators who want a simple yet powerful tool to interact with MongoDB without using command-line tools. It also serves as a great educational project for learning database operations, GUI development, and Python-MongoDB integration.
 
 ## OUTPUT:-
-<img width="742" height="390" alt="Image" src="https://github.com/user-attachments/assets/60a170db-cffe-4196-a3e8-ef4e79d1a0df" />
 
-<img width="571" height="380" alt="Image" src="https://github.com/user-attachments/assets/2d6460d6-4aba-4be2-9d8a-7bdd35ff3b51" />
+<img width="604" height="425" alt="image" src="https://github.com/user-attachments/assets/24a16ae5-0f8d-496c-a480-62c17bef0c10" />
 
-<img width="1760" height="896" alt="Image" src="https://github.com/user-attachments/assets/1a26785a-bd0e-46a7-a122-f46c38c830a6" />
+<img width="521" height="373" alt="image" src="https://github.com/user-attachments/assets/4ec2990f-75c2-4f8f-b934-58e3388c53bb" />
+
+<img width="1756" height="874" alt="image" src="https://github.com/user-attachments/assets/b91cd11e-b5bf-40cf-b3f5-4a8da1a0298a" />
+
+<img width="713" height="426" alt="image" src="https://github.com/user-attachments/assets/ae245713-a691-4377-ba1c-aaa403e319e3" />
+
+<img width="585" height="342" alt="image" src="https://github.com/user-attachments/assets/9bf96807-afc2-44e4-a1d0-7a123be992e5" />
+
+<img width="1772" height="722" alt="image" src="https://github.com/user-attachments/assets/2ae3dc15-3795-4860-b60c-29951e903674" />
+
+<img width="1542" height="917" alt="image" src="https://github.com/user-attachments/assets/3a33b8ec-60fb-4c03-b81c-8d2cf4f1de9e" />
+
+<img width="511" height="370" alt="image" src="https://github.com/user-attachments/assets/e41a1e19-129e-486e-92de-9b0b4f995080" />
+
+<img width="1767" height="838" alt="image" src="https://github.com/user-attachments/assets/afb80726-fd61-4aab-8bf2-2010175f98ac" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
