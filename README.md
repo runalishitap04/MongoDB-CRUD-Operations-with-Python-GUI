@@ -1,6 +1,4 @@
-# MongoDB-CRUD-Operations-with-Python-GUI
-
-MongoDB CRUD Operations with Python GUI
+# MongoDB-CRUD-Operations-with-Python-GUI:
 
 This application provides a user-friendly graphical interface to perform CRUD (Create, Read, Update, Delete) operations on a MongoDB database using Python. The GUI is built with Tkinter, Python’s standard GUI toolkit, while PyMongo is used to interact with MongoDB.
 
