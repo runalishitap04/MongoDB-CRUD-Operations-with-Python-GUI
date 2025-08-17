@@ -18,23 +18,23 @@ This project is ideal for developers and database administrators who want a simp
 
 ## OUTPUT:-
 
-<img width="604" height="425" alt="image" src="https://github.com/user-attachments/assets/24a16ae5-0f8d-496c-a480-62c17bef0c10" />
+<img width="1816" height="977" alt="image" src="https://github.com/user-attachments/assets/d2d48e89-9887-45b6-875d-5d732ad83248" />
 
-<img width="521" height="373" alt="image" src="https://github.com/user-attachments/assets/4ec2990f-75c2-4f8f-b934-58e3388c53bb" />
+<img width="604" height="420" alt="image" src="https://github.com/user-attachments/assets/18d1b673-313d-47d1-bc09-9a48c8268397" />
 
-<img width="1756" height="874" alt="image" src="https://github.com/user-attachments/assets/b91cd11e-b5bf-40cf-b3f5-4a8da1a0298a" />
+<img width="1772" height="752" alt="image" src="https://github.com/user-attachments/assets/8dca94dd-fc0e-45d8-8cbd-97aa184cd643" />
 
-<img width="713" height="426" alt="image" src="https://github.com/user-attachments/assets/ae245713-a691-4377-ba1c-aaa403e319e3" />
+<img width="1919" height="974" alt="image" src="https://github.com/user-attachments/assets/6c1311c5-a349-497b-9935-5458c774140a" />
 
-<img width="585" height="342" alt="image" src="https://github.com/user-attachments/assets/9bf96807-afc2-44e4-a1d0-7a123be992e5" />
+<img width="611" height="416" alt="image" src="https://github.com/user-attachments/assets/a933158a-f91b-4964-9146-dd5ce5486a0e" />
 
-<img width="1772" height="722" alt="image" src="https://github.com/user-attachments/assets/2ae3dc15-3795-4860-b60c-29951e903674" />
+<img width="1767" height="713" alt="image" src="https://github.com/user-attachments/assets/107918e8-7ad0-4971-8a66-e1ca127da711" />
 
-<img width="1542" height="917" alt="image" src="https://github.com/user-attachments/assets/3a33b8ec-60fb-4c03-b81c-8d2cf4f1de9e" />
+<img width="1919" height="923" alt="image" src="https://github.com/user-attachments/assets/dd559e5b-2e92-4ee4-a577-90a7c92de54b" />
 
-<img width="511" height="370" alt="image" src="https://github.com/user-attachments/assets/e41a1e19-129e-486e-92de-9b0b4f995080" />
+<img width="621" height="463" alt="image" src="https://github.com/user-attachments/assets/a8646c01-4bd2-45e7-8c9c-5b73fd8cf7ac" />
 
-<img width="1767" height="838" alt="image" src="https://github.com/user-attachments/assets/afb80726-fd61-4aab-8bf2-2010175f98ac" />
+<img width="1765" height="903" alt="image" src="https://github.com/user-attachments/assets/623df6e2-4941-40ff-be0d-b866a02b855d" />
 
 
 
